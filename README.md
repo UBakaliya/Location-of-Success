@@ -13,5 +13,5 @@ Launch your Terminal and clone the repository. Clone it by using following comma
 git clone https://github.com/ubaka2/Location-of-Success.git
 ```
 After downloading the application, identify the place where it was downloaded to get started.
-Call ```make run``` on your console to start the program.
+Call ```make run``` on your console to start the program. Enjoy 😉.
 
