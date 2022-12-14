@@ -8,12 +8,14 @@
 
 - Overall, a program that allows two individuals to meet at a nearby site based on their locations is a valuable tool for coordinating meetings and gatherings. It can help users find a convenient and accessible location, and provide the information and tools they need to plan and manage their meeting.
 
+Launch your Terminal and clone the repository. Clone it by using following command: 
+
 ````
 ```
-Launch your Terminal and clone the repository. Clone it by using following command: 
-`git clone https://github.com/ubaka2/Location-of-Success.git` 
+git clone https://github.com/ubaka2/Location-of-Success.git
+
+````
+```
 After downloading the application, identify the place where it was downloaded to get started.
 Call "make run" on your console to start the program.
-````
-```
 
