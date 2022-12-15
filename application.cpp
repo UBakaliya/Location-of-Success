@@ -10,7 +10,7 @@ int main()
   vector<BuildingInfo> Buildings;
   XMLDocument xmldoc;
 
-  cout << "** Welcome to \"Location For Meeting\"**" << endl;
+  cout << "*** Welcome to \"Location For Meeting\"! ***" << endl;
   cout << endl;
   cout << setprecision(8);
 
